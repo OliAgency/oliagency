@@ -4,9 +4,9 @@
   ### Full-Stack Engineer & AI Systems Architect • Sydney, Australia
 
   <p align="center">
-    <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://oliagency.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/oliver-beerworth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:Oliver@oliagency.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
   <p>
@@ -52,8 +52,8 @@
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sp0ngeman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp0ngeman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br/>
